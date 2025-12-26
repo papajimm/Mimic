@@ -1,0 +1,4 @@
+av
+opencv-python
+numpy
+PyQt6
